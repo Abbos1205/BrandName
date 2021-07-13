@@ -1,0 +1,11 @@
+.footercontainer{
+    border: 0 0 3px 0 solid #FFF;
+}
+.footertext{
+    text-align: start;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+.footercontainer p{
+    font-size: 10px;
+}

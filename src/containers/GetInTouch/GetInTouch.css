@@ -1,0 +1,65 @@
+.mycard2{
+    margin-top: 80px;
+    background-color: white;
+    width: 300px;
+    height: 275px;
+    color: black;
+    margin: 20 0;
+    margin-left: 210px;
+
+}
+
+.mycard2 a {
+    margin-top: 20px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.mycard2 p{
+    margin-top: 15px;
+}
+.btn1{
+    border: 1px solid rgb(128, 99, 255);
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.btn2{
+    margin-top: 20px;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    
+}
+.mycard3{
+    background-color: rgb(130, 130, 230);
+    width: 300px;
+    height: 330px;
+    margin-left: 70px;
+}
+.mycard3 a {
+    margin: 0 0;
+    margin-top: 20px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+.mycard4{
+    margin-top: 80px;
+    width: 300px;
+    height: 275px;
+    color: black;
+    background-color: white;
+    margin-left: -70px;
+}
+.mycard4 a {
+    margin: 0 0;
+    margin-top: 20px;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}

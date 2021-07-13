@@ -1,0 +1,20 @@
+.vector{
+    max-width: 25px;
+    max-height: 25px;
+}
+
+
+.text p{ 
+    font-size:15px ;
+}
+.text h1{ 
+    font-size:20px ;
+}
+.text1{
+    font-size: 15px !important;
+}
+.text-small{
+    padding: 15px;
+    margin-top: -25px;
+    font-size: 10px;
+}
